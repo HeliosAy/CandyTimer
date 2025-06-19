@@ -1,0 +1,5 @@
+name: CandyTimer
+version: '1.0-SNAPSHOT'
+main: com.me.candyTimer.CandyTimer
+author: HeliosAy
+api-version: '1.19'

@@ -1,0 +1,10 @@
+timers:
+  sabah_mesaji:
+    time: "09:00"
+    commands:
+      - "broadcast Günaydın herkese!"
+  odul_ver:
+    time: "21:30"
+    commands:
+      - "give @a diamond 1"
+      - "broadcast Herkese 1 adet elmas verildi!"
